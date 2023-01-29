@@ -1,0 +1,11 @@
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\bin\Debug\Zadaca2.pdb
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\bin\Debug\nunit.framework.dll
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\bin\Debug\nunit.framework.xml
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.CopyComplete
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+C:\Users\filip\OneDrive\Radna površina\PI-22-23\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
